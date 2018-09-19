@@ -1,2 +1,1 @@
 # hexo-blog
-hexo-blog
